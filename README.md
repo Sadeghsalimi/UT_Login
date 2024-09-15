@@ -8,7 +8,7 @@ https://googlechromelabs.github.io/chrome-for-testing/
 and put it:
 'C:\'
 
-2- Then run login_script_Hidden or login_script (Hidden Version is more userfriendly but doesnot show errors or outputs)
+2- Then run login_Hidden.exe or login.exe (Hidden Version is more userfriendly but doesnot show errors or outputs)
 
 3- Enter your username and password carefully (If you entered wrong, close the program and rerun it)
 
