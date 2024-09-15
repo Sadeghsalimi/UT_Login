@@ -39,6 +39,7 @@ chmod +x /path/to/ChromeDriver
 
 7-Enter ChromeDriver path
 
-Features
-Note that if proxy is on, login webpage will not be accessible, so the program try to turn it off which some times doesnot work. Therefore make sure to turn off your vpn/proxy.
+
+##Note that if proxy is on, login webpage will not be accessible, so the program try to turn it off which some times doesnot work. Therefore make sure to turn off your vpn/proxy.
+
 
