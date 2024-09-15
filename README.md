@@ -1,7 +1,8 @@
 # UT_Login
 This program is useable to login into the University of Tehran internet automatically, since it logs out every 10 hours.
 
-How to Use in Windows
+How to Use in Windows:
+
 1- Update/install Google Chrome (Last Version)
 Download ChromeDriver from here:
 https://googlechromelabs.github.io/chrome-for-testing/
