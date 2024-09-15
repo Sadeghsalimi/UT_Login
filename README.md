@@ -6,7 +6,8 @@ How to Use in Windows:
 1- Update/install Google Chrome (Last Version)
 Download ChromeDriver from here:
 https://googlechromelabs.github.io/chrome-for-testing/
-and put it:
+and put it into this path:
+
 'C:\'
 
 2- Then run login_Hidden.exe or login.exe (Hidden Version is more userfriendly but doesnot show errors or outputs)
@@ -29,9 +30,14 @@ then give it executable permissions:
 chmod +x /path/to/ChromeDriver
 
 3- Install Selenium Library
+
 4- Run the login_script_Linux.py in terminal
+
 5- Enter your username and password carefully (If you entered wrong, close the program and rerun it)
+
 6- Enter the period time that program will check status and if its disconnected, it logins (1 mintue is appropariate)
+
+7-Enter ChromeDriver path
 
 Features
 Note that if proxy is on, login webpage will not be accessible, so the program try to turn it off which some times doesnot work. Therefore make sure to turn off your vpn/proxy.
