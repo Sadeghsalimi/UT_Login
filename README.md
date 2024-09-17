@@ -4,8 +4,11 @@ This program is useable to login into the University of Tehran internet automati
 How to Use in Windows:
 
 1- Update/install Google Chrome (Last Version)
+
 Download ChromeDriver from here:
+
 https://googlechromelabs.github.io/chrome-for-testing/
+
 and put it into this path:
 
 'C:\'
@@ -19,14 +22,21 @@ and put it into this path:
 #Done! your internet is connected and will never disconnect again.
 
 How to Use in Linux
+
 1- Install google chrome:
+
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
 sudo dpkg -i google-chrome-stable_current_amd64.deb
+
 sudo apt-get install -f
 
 2-Download ChromeDriver from here:
+
 https://googlechromelabs.github.io/chrome-for-testing/
+
 then give it executable permissions:
+
 chmod +x /path/to/ChromeDriver
 
 3- Install Selenium Library
